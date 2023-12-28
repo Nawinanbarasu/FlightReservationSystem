@@ -27,8 +27,7 @@ The Indigo Airlines Flight Management System is a Python program that simulates 
 ## Usage
 
 1. **Installation:**
-   - Clone the repository: `git clone https://github.com/your-username/indigo-airlines.git`
-   - Navigate to the project directory: `cd indigo-airlines`
+   - Clone the repository: `git clone https://github.com/Nawinanbarasu/indigo-airlines.git`
 
 2. **Run the Program:**
    - Execute the Python script: `python flight_management.py`
